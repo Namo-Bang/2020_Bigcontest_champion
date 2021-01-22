@@ -40,6 +40,7 @@ When considering the deep learning model, the dimension of the data becomes too 
 
 ## Model Stacking
 We tried a number of algorithms, among which CatBoost predicted high for a few specific products, DNN found a tendency to predict conservatively as a whole.
+
 ![image](https://user-images.githubusercontent.com/48271454/105502911-5067c980-5d09-11eb-8796-2222cafab5ec.png)
 
 So we tried to combine the two models.
