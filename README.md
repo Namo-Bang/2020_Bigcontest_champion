@@ -1,5 +1,5 @@
 # 2020_Bigcontest_champion
-## __2020 BigContest Champion League Finalist__
+## __2020 BigContest Champion League Finalist (top 3%)__
 
 __TEAM 데이터 공방__
 
