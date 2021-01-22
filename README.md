@@ -1,7 +1,8 @@
 # 2020_Bigcontest_champion
 __2020 BigContest Champion League Finalist__
 
-TEAM 데이터 
+TEAM 데이터 공방
+
 team member: Namo Bang, Ayoung Jo, Dongyeon Keum, Sanghyun Park Assistant: Gaeun Sung
 
 *Beacause of security rule, I cannot open data and some codes uesd in this proj
