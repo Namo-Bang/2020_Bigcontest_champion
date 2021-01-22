@@ -3,7 +3,9 @@
 
 __TEAM 데이터 공방__
 
-team member: Namo Bang, Ayoung Jo, Dongyeon Keum, Sanghyun Park Assistant: Gaeun Sung
+Team member: Namo Bang, Ayoung Jo, Dongyeon Keum, Sanghyun Park
+
+Assistant: Gaeun Sung
 
 *Beacause of security rule, I cannot open data and full codes uesd in this proj*
 
