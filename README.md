@@ -1,11 +1,11 @@
 # 2020_Bigcontest_champion
-__2020 BigContest Champion League Finalist__
+## __2020 BigContest Champion League Finalist__
 
-TEAM 데이터 공방
+__TEAM 데이터 공방__
 
 team member: Namo Bang, Ayoung Jo, Dongyeon Keum, Sanghyun Park Assistant: Gaeun Sung
 
-*Beacause of security rule, I cannot open data and some codes uesd in this proj
+*Beacause of security rule, I cannot open data and full codes uesd in this proj*
 
 ## Goal of Competition
 Using 2019 sales data to predict your handling amount for June 2020
