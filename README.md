@@ -53,4 +53,4 @@ Since the train data is from 2019 and the test data is from 2020, many products 
 >If the two above are not applicable → Mapping to products with similar names among products in the same product group with similar price points
 
 ## Result
-Our 데이터 공방 made it to the finalists of 16 teams, but unfortunately, we did not win the award. The reason for the defeat seems to be that the business improvement part using the last model and analysis result was very poor. However, it was a very good experience to have this level of achievement and experience as a non-major in the first challenged competition.
+We 데이터 공방 made it to the finalists of 16 teams, but unfortunately, we did not win the award. The reason for the defeat seems to be that the business improvement part using the last model and analysis result was very poor. However, it was a very good experience to have this level of achievement and experience as a non-major in the first challenged competition.
